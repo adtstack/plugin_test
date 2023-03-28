@@ -1,0 +1,7 @@
+title: "test"
+version: "0.0.1"
+package_name: "test"
+developer: "adtstack"
+description: "plugin test"
+home: "https://github.com/adtstack/plugin_test"
+more: "https://raw.githubusercontent.com/adtstack/plugin_test/main/README.md"
